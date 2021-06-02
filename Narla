@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TENTATIVA DE PAGINA PESSOAL 1</title>
+    </head>
+    <body style="width:100px; height: 100px; background-color: rgb(192, 240, 240);">
+        <h1>NARLA MAÍRA</h1>
+        <hr>
+        <footer></footer>
+    </body>
+    
+    <script>
+        alert("OI PESSOAS")
+    </script>   
+</html>
